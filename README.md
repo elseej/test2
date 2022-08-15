@@ -1,2 +1,3 @@
 # test2
-readme needed
+My first GitHub repo!
+Hello Odin! 
